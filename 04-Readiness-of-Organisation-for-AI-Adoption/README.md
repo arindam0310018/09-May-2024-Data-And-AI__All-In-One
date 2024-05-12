@@ -58,20 +58,30 @@ In this Session, I will provide readers, my views on __Readiness of Organisation
 | Zurich Insurance built AI assurance framework (RESTT: Reliability, explainability, safety and security, transparency)
 | With the use of Copilot, Zurich Insurance is reshaping insurance company. | 
 
-| 9. Organisation & Cultural Change:- |
+| 9. AI Security Maturity:- |
+| --------- |
+| This must include below. |
+| i) Understanding of Generative AI Threat Map. |
+| ii) Security controls within AI Systems. |
+| iii) Threat Modelling Scenarios. |
+| iv) Threat Mapping Template. |
+| v) Understanding of End to End Secure AI. |
+| __Important to Note:__ Security for AI is an __ever-evolving process__ | 
+
+| 10. Organisation & Cultural Change:- |
 | --------- |
 | a.) Unlike Platform Team (Cloud, Devops and Containers) serving needs of Organisation horizontally, So should Data and AI. |
 | b.) Use Artificial Intelligence, with intelligence. |
  
-| 10. An crisp and clear TOM (Target Operating Model) to better handle data to day business. | 
+| 11. An crisp and clear TOM (Target Operating Model) to better handle data to day business. | 
 | --------- |
 
-| 11. DevRel: Developer relationship:- | 
+| 12. DevRel: Developer relationship:- | 
 | --------- |
 | It is the Communication between organizations and developers to ensure a better information flow and feedback loop. 
 | __More on DevRel:__ https://www.whatisdevrel.com/ |
 
-| 12. Participating in meetups and conferences. |
+| 13. Participating in meetups and conferences. |
 | --------- |
 | Sharing is caring and presenting your Solution in front of unknown audiences with their unexpected questions always results into learning and further development. |
 
