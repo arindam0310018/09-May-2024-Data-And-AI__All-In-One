@@ -11,4 +11,5 @@ The Objective of this series is to learn as much as possible on Data and AI and 
 | 12.05.2024 | Microsoft OpenAI Security | https://dev.to/arindam0310018/microsoft-openai-security-5ej6 |
 | 12.05.2024 | Readiness of Organisation for AI Adoption | https://dev.to/arindam0310018/readiness-of-organisation-for-ai-adoption-4eli |
 | 12.05.2024 | Microsoft OpenAI: Errors I Learned | https://dev.to/arindam0310018/microsoft-openai-errors-i-learned-f4k |
+| 17.08.2024 | |https://dev.to/arindam0310018/tactiq-chatgpt-meeting-summary-2942 |
 
